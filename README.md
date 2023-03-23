@@ -1,4 +1,4 @@
 # GiphyAPI
-Giphy API eBay Page
+Giphy API Page
 
 Incorporating Giphy API into a responsive layout.
