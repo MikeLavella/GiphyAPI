@@ -1,0 +1,6 @@
+<div class="search">
+    <input autofocus type="text" id="searchInput" placeholder="Search for GIFs" aria-label="Image Search"
+        #input (keyup.enter)="search(input.value)">
+    <button type="button" aria-label="search" (click)="search(input.value)"><img
+            src="../../../assets/images/search-icon.svg" width="30" alt=""></button>
+</div>

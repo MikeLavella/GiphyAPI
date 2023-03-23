@@ -1,0 +1,12 @@
+$text-white:#fff;
+
+@font-face {
+    font-family: space;
+    src: url(assets/fonts/Rocketship.ttf);
+  }
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:$text-white;
+    font-size:16px;
+}
